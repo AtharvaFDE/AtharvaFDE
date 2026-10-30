@@ -64,30 +64,42 @@ I'm passionate about building technology that solves real-world problems.
 
 <h2 align="center">⚡ ENGINEERING DOMAINS</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🤖 AI ENGINEERING
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" height="130" alt="AI Engineering animation" />
 
-Intelligent applications, machine learning, automation, and AI-powered solutions.
+<h3>🤖 AI ENGINEERING</h3>
 
-</td>
-
-<td align="center" width="33%">
-
-### 📊 DATA ENGINEERING
-
-Data processing, databases, pipelines, and data-driven systems.
+<p>
+Building intelligent applications using machine learning, automation, and AI-powered technologies.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 💻 SOFTWARE DEVELOPMENT
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="180" height="130" alt="Data Engineering animation" />
 
-Web applications, mobile applications, APIs, and backend systems.
+<h3>📊 DATA ENGINEERING</h3>
+
+<p>
+Exploring data processing, database systems, pipelines, and data-driven solutions.
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" height="130" alt="Software Development animation" />
+
+<h3>💻 SOFTWARE DEVELOPMENT</h3>
+
+<p>
+Creating web applications, mobile applications, APIs, and scalable software solutions.
+</p>
 
 </td>
 
@@ -111,7 +123,11 @@ Web applications, mobile applications, APIs, and backend systems.
 <h3 align="center">🌐 Web & App Development</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,django,graphql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,graphql" />
+</p>
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
 </p>
 
 <h3 align="center">🗄️ Databases & Backend</h3>
@@ -216,11 +232,12 @@ Web applications, mobile applications, APIs, and backend systems.
 
 <br/><br/>
 
-**⭐ If you like my work, consider exploring my repositories!**
+<b>⭐ If you like my work, consider exploring my repositories!</b>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:111B35,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
 
