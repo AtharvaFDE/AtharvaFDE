@@ -7,9 +7,9 @@
 
 
 
-<!-- ====================================================== -->
-<!--          ATHARVA DESHMUKH | GITHUB PROFILE             -->
-<!-- ====================================================== -->
+<!-- ============================================================ -->
+<!--             ATHARVA DESHMUKH | GITHUB PROFILE                 -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -28,15 +28,18 @@
 <a href="https://discord.gg/atharvadeshmukh1761">
 <img src="https://img.icons8.com/color/96/discord-logo.png" width="45" alt="Discord"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:atharvadeshmukh532@gmail.com">
 <img src="https://img.icons8.com/color/96/gmail-new.png" width="45" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/atharva-deshmukh-9b61b325b/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/deshmukh.atharva/">
 <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
 </a>
@@ -100,7 +103,7 @@ I believe great technology happens when data, intelligence, and engineering come
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="78"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="78" alt="AI"/>
 
 ### 🤖 AI ENGINEERING
 
@@ -118,7 +121,7 @@ Building intelligent applications and AI-powered solutions.
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/database.png" width="78"/>
+<img src="https://img.icons8.com/fluency/96/database.png" width="78" alt="Data"/>
 
 ### 📊 DATA ENGINEERING
 
@@ -136,7 +139,7 @@ Transforming raw data into meaningful insights.
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="78"/>
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="78" alt="Software"/>
 
 ### 💻 SOFTWARE DEVELOPMENT
 
@@ -232,71 +235,101 @@ My technology ecosystem across AI, data, software and development.
 
 ---
 
-<!-- PROJECT SHOWCASE -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<p align="center">
-A showcase of things I build, experiment with and learn from.
+<div align="center">
+
+<p>
+<i>Building intelligent solutions, transforming data, and creating impactful software.</i>
 </p>
 
-<table>
+<br/>
+
+<table align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3 align="center">🤖 AI & MACHINE LEARNING</h3>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="75" alt="AI Engineering"/>
 
-<div align="center">
+<h3>🤖 AI & MACHINE LEARNING</h3>
+
+<p>
+Exploring intelligent applications powered by AI, machine learning and LLMs.
+</p>
+
+<br/>
 
 <a href="https://github.com/AtharvaFDE?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20AI%20PROJECTS-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</div>
+<br/><br/>
 
-- AI-powered applications
-- LLM experiments
-- Machine learning projects
+<sub>Generative AI • LLMs • RAG</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3 align="center">📊 DATA ENGINEERING</h3>
+<img src="https://img.icons8.com/fluency/96/database.png" width="75" alt="Data Engineering"/>
 
-<div align="center">
+<h3>📊 DATA ENGINEERING</h3>
+
+<p>
+Designing data workflows, processing pipelines and database solutions.
+</p>
+
+<br/>
 
 <a href="https://github.com/AtharvaFDE?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20DATA%20PROJECTS-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-- Data processing workflows
-- Database solutions
-- ETL pipeline experiments
+<sub>ETL • SQL • Data Pipelines</sub>
 
 </td>
 
-</tr>
+<td align="center" width="33%" valign="top">
 
-<tr>
-
-<td colspan="2" align="center">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="75" alt="Software Development"/>
 
 <h3>💻 SOFTWARE DEVELOPMENT</h3>
+
+<p>
+Creating scalable applications, modern APIs and digital experiences.
+</p>
+
+<br/>
 
 <a href="https://github.com/AtharvaFDE?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20SOFTWARE%20PROJECTS-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<p>Web Applications • APIs • Full Stack Development</p>
+<br/><br/>
+
+<sub>Web Apps • APIs • Full Stack</sub>
 
 </td>
 
 </tr>
 </table>
+
+<br/>
+
+<h3>💡 FROM IDEAS TO IMPLEMENTATION</h3>
+
+<h3>AI × DATA × SOFTWARE</h3>
+
+<a href="https://github.com/AtharvaFDE?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20MY%20REPOSITORIES-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
@@ -306,25 +339,25 @@ A showcase of things I build, experiment with and learn from.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvaFDE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=050816&title_color=00F5A0&icon_color=58A6FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvaFDE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=050816&title_color=00F5A0&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=AtharvaFDE&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=58A6FF"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AtharvaFDE&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=58A6FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaFDE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaFDE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION ACTIVITY -->
 
 <h2 align="center">🔥 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaFDE&bg_color=050816&color=FFFFFF&line=00F5A0&point=58A6FF&area=true&area_color=064E5B&hide_border=true&custom_title=Atharva's%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaFDE&bg_color=050816&color=FFFFFF&line=00F5A0&point=58A6FF&area=true&area_color=064E5B&hide_border=true&custom_title=Atharva%27s%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
@@ -342,7 +375,7 @@ A showcase of things I build, experiment with and learn from.
 
 ---
 
-<!-- TROPHIES -->
+<!-- GITHUB TROPHIES -->
 
 <h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
@@ -387,6 +420,7 @@ A showcase of things I build, experiment with and learn from.
 </div>
 
 <!-- END OF README -->
+
 
 
 
