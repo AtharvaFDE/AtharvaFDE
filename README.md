@@ -7,17 +7,18 @@
 
 
 
+
 <!-- ====================================================== -->
 <!--                    PROFILE HEADER                      -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111B35,100:00F5A0&text=ATHARVA%20DESHMUKH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20DATA%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111B35,100:00F5A0&text=ATHARVA%20DESHMUKH&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20DATA%20ENGINEERING%20%7C%20DATA%20ANALYTICS%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=12&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Data-Driven+Solutions;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Transforming+Data+Into+Insights;Engineering+Data-Driven+Solutions;Turning+Ideas+Into+Reality" />
 
 </div>
 
@@ -33,16 +34,17 @@
 
 ### Hey there! I'm Atharva 👋
 
-I'm passionate about building technology that solves real-world problems.
+I'm passionate about building technology that solves real-world problems through intelligent systems, data, and software engineering.
 
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Interested in **Data Engineering & Data Science**
+- 📊 Interested in **Data Analytics & Data Science**
+- 🗄️ Exploring **Data Engineering & Database Systems**
 - 💻 Building applications through **Software Development**
+- 📈 Turning raw data into meaningful insights and visualizations
 - 🌱 Constantly learning new tools, technologies, and frameworks
-- 🚀 Interested in turning complex ideas into practical solutions
-- 🎯 Focused on continuous learning and building impactful projects
+- 🚀 Interested in building intelligent and scalable solutions
 
-**My goal:** Build intelligent, scalable, and meaningful technology.
+**My goal:** Build intelligent, scalable, and meaningful technology while transforming data into actionable insights.
 
 </td>
 
@@ -63,38 +65,50 @@ I'm passionate about building technology that solves real-world problems.
 <table width="100%">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" height="130" alt="AI Engineering animation" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" height="120" alt="AI Engineering animation" />
 
 <h3>🤖 AI ENGINEERING</h3>
 
 <p>
-Building intelligent applications using machine learning, automation, and AI-powered technologies.
+Building intelligent applications using machine learning, deep learning, automation, and AI-powered technologies.
 </p>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" height="130" alt="Data Engineering animation" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" height="120" alt="Data Engineering animation" />
 
-<h3>📊 DATA ENGINEERING</h3>
+<h3>🗄️ DATA ENGINEERING</h3>
 
 <p>
-Exploring data processing, database systems, pipelines, and data-driven solutions.
+Exploring data pipelines, ETL processes, data processing, database systems, and scalable data infrastructure.
 </p>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" height="130" alt="Software Development animation" />
+<img src="https://media.giphy.com/media/5W3K0N8VvQ1Z6/giphy.gif" width="150" height="120" alt="Data Analytics animation" />
+
+<h3>📊 DATA ANALYTICS</h3>
+
+<p>
+Analyzing datasets, discovering patterns, building dashboards, and transforming data into actionable insights.
+</p>
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" height="120" alt="Software Development animation" />
 
 <h3>💻 SOFTWARE DEVELOPMENT</h3>
 
 <p>
-Creating web applications, mobile applications, APIs, and scalable software solutions.
+Creating web applications, APIs, backend systems, and scalable software solutions.
 </p>
 
 </td>
@@ -108,39 +122,101 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 <h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
-<h3 align="center">💻 Languages & Core Technologies</h3>
+<!-- PROGRAMMING LANGUAGES -->
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<h3 align="center">🌐 Web & App Development</h3>
+<!-- WEB DEVELOPMENT -->
+
+<h3 align="center">🌐 Web & Application Development</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,graphql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,graphql,fastapi" />
 </p>
+
+<!-- DATA ANALYTICS -->
+
+<h3 align="center">📊 Data Analytics & Business Intelligence</h3>
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-<h3 align="center">🗄️ Databases & Backend</h3>
+<!-- DATA ENGINEERING -->
+
+<h3 align="center">🗄️ Data Engineering & Databases</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,fastapi" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL_Pipelines-00A98F?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
+<!-- AI & ML -->
+
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Tools & Platforms</h3>
+<!-- TOOLS & PLATFORMS -->
+
+<h3 align="center">⚙️ Developer Tools & Platforms</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,linux,postman,aws" />
 </p>
+
+<!-- PRODUCTIVITY -->
+
+<h3 align="center">🔧 Productivity & Development Tools</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+---
+
+<!-- =================== DATA ANALYTICS =================== -->
+
+<h2 align="center">📈 DATA ANALYTICS TOOLKIT</h2>
+
+<div align="center">
+
+| Category | Technologies & Tools |
+|:---:|:---|
+| Data Manipulation | Python, Pandas, NumPy |
+| Data Cleaning | Pandas, Excel |
+| Data Visualization | Matplotlib, Seaborn, Plotly |
+| Business Intelligence | Power BI, Tableau |
+| Spreadsheet Analysis | Microsoft Excel |
+| Database Querying | SQL, MySQL, PostgreSQL |
+| Statistical Analysis | Python, NumPy, SciPy |
+| Data Processing | Apache Spark |
+| Data Pipelines | ETL, Apache Airflow |
+| Interactive Dashboards | Power BI, Streamlit |
+
+</div>
 
 ---
 
@@ -214,7 +290,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 <h2>🚀 Thanks for visiting my digital universe!</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Innovating." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Analyzing.;Keep+Innovating." />
 
 <br/><br/>
 
@@ -225,6 +301,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:111B35,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
 
