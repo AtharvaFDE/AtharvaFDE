@@ -6,15 +6,18 @@
 </picture> -->
 
 
-<!-- ===================================================== -->
-<!--           ATHARVA DESHMUKH | GITHUB PROFILE            -->
-<!-- ===================================================== -->
+
+<!-- ====================================================== -->
+<!--          ATHARVA DESHMUKH | GITHUB PROFILE             -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<!-- HERO HEADER -->
+<!-- HERO BANNER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:101B40,70:064E5B,100:00F5A0&text=ATHARVA%20DESHMUKH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20DATA%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=00F5A0&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+Intelligent+AI+Applications+%F0%9F%A4%96;Engineering+Scalable+Data+Pipelines+%F0%9F%93%8A;Developing+Modern+Software+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%F0%9F%9A%80"/>
 
@@ -23,24 +26,22 @@
 <!-- SOCIAL ICONS ONLY -->
 
 <a href="https://discord.gg/atharvadeshmukh1761">
-<img src="https://img.icons8.com/color/96/discord-logo.png" width="48" alt="Discord"/>
+<img src="https://img.icons8.com/color/96/discord-logo.png" width="45" alt="Discord"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:atharvadeshmukh532@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="48" alt="Gmail"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="45" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/atharva-deshmukh-9b61b325b/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/deshmukh.atharva/">
-<img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AtharvaFDE&label=PROFILE+VISITORS&color=00F5A0&style=for-the-badge"/>
 
 </div>
 
@@ -48,7 +49,7 @@
 
 <!-- ABOUT ME -->
 
-<h2 align="center">🧑‍🚀 THE DEVELOPER BEHIND THE CODE</h2>
+<h2 align="center">🧑‍🚀 ABOUT ME</h2>
 
 <div align="center">
 
@@ -62,13 +63,13 @@
 
 ### 💫 Who Am I?
 
-I'm a passionate developer interested in the intersection of **Artificial Intelligence, Data Engineering, and Software Development**.
+I'm Atharva Deshmukh, a passionate developer interested in the intersection of **Artificial Intelligence, Data Engineering, and Software Development**.
 
 I enjoy creating intelligent applications, designing efficient data workflows, and building scalable software that solves real-world problems.
 
 I believe great technology happens when data, intelligence, and engineering come together.
 
-### 🎯 My Current Focus
+### 🎯 Currently Focusing On
 
 - 🤖 Exploring Generative AI and LLM applications.
 - 🧠 Building AI-powered solutions.
@@ -82,11 +83,7 @@ I believe great technology happens when data, intelligence, and engineering come
 
 <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
 
-<div align="center">
-
-**BUILD • LEARN • EXPLORE • REPEAT**
-
-</div>
+<h3 align="center">BUILD • LEARN • EXPLORE</h3>
 
 </td>
 </tr>
@@ -94,7 +91,7 @@ I believe great technology happens when data, intelligence, and engineering come
 
 ---
 
-<!-- MY DOMAINS -->
+<!-- ENGINEERING DOMAINS -->
 
 <h2 align="center">⚡ MY ENGINEERING DOMAINS</h2>
 
@@ -105,9 +102,9 @@ I believe great technology happens when data, intelligence, and engineering come
 
 <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="78"/>
 
-<h3>🤖 AI ENGINEERING</h3>
+### 🤖 AI ENGINEERING
 
-Building intelligent systems and exploring the future of AI.
+Building intelligent applications and AI-powered solutions.
 
 `Generative AI`
 
@@ -123,9 +120,9 @@ Building intelligent systems and exploring the future of AI.
 
 <img src="https://img.icons8.com/fluency/96/database.png" width="78"/>
 
-<h3>📊 DATA ENGINEERING</h3>
+### 📊 DATA ENGINEERING
 
-Transforming raw information into reliable, useful data.
+Transforming raw data into meaningful insights.
 
 `ETL Pipelines`
 
@@ -141,9 +138,9 @@ Transforming raw information into reliable, useful data.
 
 <img src="https://img.icons8.com/fluency/96/source-code.png" width="78"/>
 
-<h3>💻 SOFTWARE DEVELOPMENT</h3>
+### 💻 SOFTWARE DEVELOPMENT
 
-Turning ideas into scalable digital products.
+Building scalable and modern applications.
 
 `Web Development`
 
@@ -162,23 +159,23 @@ Turning ideas into scalable digital products.
 
 <!-- TECHNOLOGY STACK -->
 
-<h2 align="center">🛠️ MY TECHNOLOGY UNIVERSE</h2>
+<h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
 <p align="center">
-The tools, frameworks and technologies I use or explore.
+My technology ecosystem across AI, data, software and development.
 </p>
 
 <h3 align="center">🤖 AI & MACHINE LEARNING</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
 
 </div>
 
@@ -188,7 +185,7 @@ The tools, frameworks and technologies I use or explore.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/>
 
 <br/><br/>
 
@@ -204,7 +201,7 @@ The tools, frameworks and technologies I use or explore.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative&theme=dark"/>
 
 </div>
 
@@ -214,7 +211,7 @@ The tools, frameworks and technologies I use or explore.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,graphql,nodejs&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,graphql,nodejs&theme=dark"/>
 
 <br/><br/>
 
@@ -229,7 +226,7 @@ The tools, frameworks and technologies I use or explore.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
 
 </div>
 
@@ -294,7 +291,7 @@ A showcase of things I build, experiment with and learn from.
 <img src="https://img.shields.io/badge/EXPLORE%20SOFTWARE%20PROJECTS-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<p>Web applications • APIs • Full-stack development</p>
+<p>Web Applications • APIs • Full Stack Development</p>
 
 </td>
 
@@ -309,17 +306,13 @@ A showcase of things I build, experiment with and learn from.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvaFDE&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=58A6FF&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvaFDE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=050816&title_color=00F5A0&icon_color=58A6FF&text_color=FFFFFF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AtharvaFDE&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AtharvaFDE&theme=tokyonight&hide_border=true&background=050816&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=58A6FF"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaFDE&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaFDE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=FFFFFF"/>
 
 </div>
 
@@ -331,7 +324,7 @@ A showcase of things I build, experiment with and learn from.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaFDE&bg_color=050816&color=FFFFFF&line=00F5A0&point=58A6FF&area=true&area_color=064E5B&hide_border=true&custom_title=Atharva's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaFDE&bg_color=050816&color=FFFFFF&line=00F5A0&point=58A6FF&area=true&area_color=064E5B&hide_border=true&custom_title=Atharva's%20Contribution%20Graph" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
@@ -339,11 +332,11 @@ A showcase of things I build, experiment with and learn from.
 
 <!-- CONTRIBUTION SNAKE -->
 
-<h2 align="center">🐍 WATCH MY CONTRIBUTIONS MOVE!</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/AtharvaFDE/AtharvaFDE/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/AtharvaFDE/AtharvaFDE/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -355,7 +348,7 @@ A showcase of things I build, experiment with and learn from.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AtharvaFDE&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AtharvaFDE&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -367,7 +360,7 @@ A showcase of things I build, experiment with and learn from.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote"/>
 
 <br/><br/>
 
@@ -380,7 +373,7 @@ A showcase of things I build, experiment with and learn from.
 <h3>⚡ BUILD • LEARN • INNOVATE • REPEAT ⚡</h3>
 
 <a href="https://github.com/AtharvaFDE">
-<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING!-ATHARVAFDE-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING!-ATHARVA-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -393,7 +386,8 @@ A showcase of things I build, experiment with and learn from.
 
 </div>
 
-<!-- END OF ATHARVA PROFILE -->
+<!-- END OF README -->
+
 
 
 
