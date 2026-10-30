@@ -7,7 +7,6 @@
 
 
 
-
 <!-- ====================================================== -->
 <!--                    PROFILE HEADER                      -->
 <!-- ====================================================== -->
@@ -153,36 +152,6 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🟠 AWS</h3>
-
-<b>Amazon Web Services</b>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🔵 GCP</h3>
-
-<b>Google Cloud Platform</b>
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🔷 AZURE</h3>
-
-<b>Microsoft Azure</b>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 <!-- =================== GITHUB ANALYTICS =================== -->
@@ -266,6 +235,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:111B35,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
 
