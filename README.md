@@ -23,9 +23,7 @@
 
 ---
 
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+<!-- ======================== ABOUT ME ======================== -->
 
 <h2 align="center">🧑‍💻 ABOUT ME</h2>
 
@@ -58,9 +56,7 @@ I'm passionate about building technology that solves real-world problems.
 
 ---
 
-<!-- ====================================================== -->
-<!--                  ENGINEERING DOMAINS                   -->
-<!-- ====================================================== -->
+<!-- ================= ENGINEERING DOMAINS ================= -->
 
 <h2 align="center">⚡ ENGINEERING DOMAINS</h2>
 
@@ -81,7 +77,7 @@ Building intelligent applications using machine learning, automation, and AI-pow
 
 <td align="center" width="33%" valign="top">
 
-<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="180" height="130" alt="Data Engineering animation" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180" height="130" alt="Data Engineering animation" />
 
 <h3>📊 DATA ENGINEERING</h3>
 
@@ -108,9 +104,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 ---
 
-<!-- ====================================================== -->
-<!--                     TECH STACK                         -->
-<!-- ====================================================== -->
+<!-- ====================== TECH STACK ====================== -->
 
 <h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
@@ -127,7 +121,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 </p>
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
 </p>
 
 <h3 align="center">🗄️ Databases & Backend</h3>
@@ -150,9 +144,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 ---
 
-<!-- ====================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
-<!-- ====================================================== -->
+<!-- =================== GITHUB ANALYTICS =================== -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -170,9 +162,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 ---
 
-<!-- ====================================================== -->
-<!--                 CONTRIBUTION SNAKE                     -->
-<!-- ====================================================== -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
@@ -184,9 +174,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 ---
 
-<!-- ====================================================== -->
-<!--                    CONNECT WITH ME                     -->
-<!-- ====================================================== -->
+<!-- =================== CONNECT WITH ME =================== -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
@@ -198,7 +186,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/atharva-deshmukh-9b61b325b/" title="LinkedIn">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="42" height="42" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -220,9 +208,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 ---
 
-<!-- ====================================================== -->
-<!--                       FOOTER                           -->
-<!-- ====================================================== -->
+<!-- ======================== FOOTER ======================== -->
 
 <div align="center">
 
@@ -239,5 +225,6 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:111B35,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
