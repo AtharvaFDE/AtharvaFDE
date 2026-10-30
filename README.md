@@ -6,7 +6,10 @@
 </picture> -->
 
 
-<!-- ===================== PROFILE HEADER ===================== -->
+
+<!-- ====================================================== -->
+<!--                    PROFILE HEADER                      -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -16,17 +19,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Data-Driven+Solutions;Turning+Ideas+Into+Reality" />
 
-<br/><br/>
-
-<a href="https://github.com/AtharvaFDE">
-<img src="https://komarev.com/ghpvc/?username=AtharvaFDE&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS" />
-</a>
-
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
 <h2 align="center">🧑‍💻 ABOUT ME</h2>
 
@@ -59,7 +58,9 @@ I'm passionate about building technology that solves real-world problems.
 
 ---
 
-<!-- ===================== ENGINEERING DOMAINS ===================== -->
+<!-- ====================================================== -->
+<!--                  ENGINEERING DOMAINS                   -->
+<!-- ====================================================== -->
 
 <h2 align="center">⚡ ENGINEERING DOMAINS</h2>
 
@@ -95,7 +96,9 @@ Web applications, mobile applications, APIs, and backend systems.
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
 
 <h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
@@ -131,7 +134,9 @@ Web applications, mobile applications, APIs, and backend systems.
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ====================================================== -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ====================================================== -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -139,7 +144,7 @@ Web applications, mobile applications, APIs, and backend systems.
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaFDE&theme=github_dark" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaFDE&theme=github_dark&utcOffset=5.5" alt="Most productive time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaFDE&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 <br/><br/>
 
@@ -149,7 +154,9 @@ Web applications, mobile applications, APIs, and backend systems.
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ====================================================== -->
+<!--                 CONTRIBUTION SNAKE                     -->
+<!-- ====================================================== -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
@@ -161,37 +168,45 @@ Web applications, mobile applications, APIs, and backend systems.
 
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
+<!-- ====================================================== -->
+<!--                    CONNECT WITH ME                     -->
+<!-- ====================================================== -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
 
-<a href="https://github.com/AtharvaFDE">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/AtharvaFDE" title="GitHub">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/atharva-deshmukh-9b61b325b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/atharva-deshmukh-9b61b325b/" title="LinkedIn">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:atharvadeshmukh532@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:atharvadeshmukh532@gmail.com" title="Email">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/deshmukh.atharva/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://www.instagram.com/deshmukh.atharva/" title="Instagram">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://discord.gg/atharvadeshmukh1761">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://discord.gg/atharvadeshmukh1761" title="Discord">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" />
 </a>
 
 </p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ====================================================== -->
+<!--                       FOOTER                           -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -203,14 +218,9 @@ Web applications, mobile applications, APIs, and backend systems.
 
 **⭐ If you like my work, consider exploring my repositories!**
 
-<br/>
-
-<a href="https://github.com/AtharvaFDE">
-<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-00F5A0?style=for-the-badge&logo=github&logoColor=black" alt="Connect with me" />
-</a>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:111B35,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
