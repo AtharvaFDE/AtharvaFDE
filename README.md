@@ -156,7 +156,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 <!-- =================== GITHUB ANALYTICS =================== -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<!-- <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Creating web applications, mobile applications, APIs, and scalable software solu
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaFDE&theme=github_dark" alt="GitHub profile details" />
 
-</div>
+</div> -->
 
 ---
 
