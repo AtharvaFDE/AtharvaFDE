@@ -19,14 +19,14 @@
 
 <!-- ======================== ABOUT ME ======================== -->
 
-<h2 align="center">🧑‍💻 ABOUT ME\</h2>
+<h2 align="center">🧑‍💻 ABOUT ME</h2>
 
 <table width="100%">
 <tr>
 
 <td width="60%" valign="middle" align="left">
 
-<h3>Hey there! I'm Atharva 👋\</h3>
+<h3>Hey there! I'm Atharva 👋</h3>
 
 <p>
 I'm passionate about building technology that solves real-world problems.
