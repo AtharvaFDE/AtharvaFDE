@@ -1,4 +1,4 @@
- 
+
 <!-- ====================================================== -->
 <!--                    PROFILE HEADER                      -->
 <!-- ====================================================== -->
@@ -15,30 +15,145 @@
 
 ---
 
-
-
 <!-- ======================== ABOUT ME ======================== -->
 
 <h2 align="center">🧑‍💻 ABOUT ME</h2>
 
-<h3 align="center">Hey there! I'm Atharva 👋</h3>
+<table width="100%" border="0">
+<tr>
+<td width="65%" valign="middle">
 
-<p align="center">
-I'm passionate about building technology that solves real-world problems.
-</p>
+<h3>Hey there! I'm Atharva 👋</h3>
 
-<p align="center">
-🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
-📊 Interested in <b>Data Engineering & Data Science</b><br/>
-💻 Building applications through <b>Software Development</b><br/>
-🌱 Constantly learning new tools, technologies, and frameworks<br/>
-🚀 Interested in turning complex ideas into practical solutions<br/>
-🎯 Focused on continuous learning and building impactful projects
+<p>
+Passionate about building intelligent systems, engineering data-driven
+solutions, and developing technology that solves real-world problems.
 </p>
 
 <p>
-<b align="center">My goal:</b> Build intelligent, scalable, and meaningful technology.
+🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
+📊 Interested in <b>Data Engineering & Data Science</b><br/>
+💻 Building applications through <b>Software Development</b><br/>
+🌱 Constantly learning new tools and technologies<br/>
+🚀 Turning complex ideas into practical solutions
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/AI%20Enthusiast-00F5A0?style=flat-square&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-111B35?style=flat-square&logo=databricks&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/Developer-050816?style=flat-square&logo=github&logoColor=00F5A0"/>
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="280"
+alt="Developer Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<h3>⚡ WHAT I'M EXPLORING</h3>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+🤖
+
+<b>AI ENGINEERING</b>
+
+<sub>Intelligent Systems</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+📊
+
+<b>DATA ENGINEERING</b>
+
+<sub>Data Pipelines & Analytics</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+💻
+
+<b>SOFTWARE DEVELOPMENT</b>
+
+<sub>Applications & APIs</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🤖 Explore My AI Engineering Interests</b></summary>
+
+<br/>
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- AI-powered Applications
+- Intelligent Automation
+
+</details>
+
+<details>
+<summary><b>📊 Explore My Data Engineering Interests</b></summary>
+
+<br/>
+
+- SQL & Database Management
+- Data Processing
+- Data Pipelines
+- Data Warehousing
+- Data Analytics
+
+</details>
+
+<details>
+<summary><b>💻 Explore My Software Development Interests</b></summary>
+
+<br/>
+
+- Frontend Development
+- Backend Development
+- Full-Stack Applications
+- API Development
+- Scalable Software Architecture
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<h3>🎯 MY MISSION</h3>
+
+<p>
+<i>"Build intelligent. Engineer efficiently. Innovate continuously."</i>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=550&lines=Think+Big.;Build+Smart.;Learn+Every+Day.;Create+Something+Meaningful." alt="My Mission Animation"/>
+
+</div>
+
+<!-- ====================== END ABOUT ME ====================== -->
 
 ---
 
