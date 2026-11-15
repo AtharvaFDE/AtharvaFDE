@@ -29,32 +29,55 @@
 
 
 
-<table width="100%" align="center">
-<tr>
-<td align="center" width="100%">
 
-<h3>Hey there! I'm Atharva 👋</h3>
+<!-- ======================== ABOUT ME ======================== -->
 
-<p>
-I'm passionate about building technology that solves real-world problems.
-</p>
+<h2 align="center">🧑‍💻 ABOUT ME</h2>
 
-<p>
-🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
-📊 Interested in <b>Data Engineering & Data Science</b><br/>
-💻 Building applications through <b>Software Development</b><br/>
-🌱 Constantly learning new tools, technologies, and frameworks<br/>
-🚀 Interested in turning complex ideas into practical solutions<br/>
+<div align="center">
+
+<h1>Hey there! I'm Atharva 👋</h1>
+
+<h3>
+Passionate about building technology that solves real-world problems.
+</h3>
+
+<br/>
+
+<h3>
+🤖 Exploring <b>Artificial Intelligence & Machine Learning</b>
+</h3>
+
+<h3>
+📊 Interested in <b>Data Engineering & Data Science</b>
+</h3>
+
+<h3>
+💻 Building applications through <b>Software Development</b>
+</h3>
+
+<h3>
+🌱 Constantly learning new tools, technologies, and frameworks
+</h3>
+
+<h3>
+🚀 Turning complex ideas into practical solutions
+</h3>
+
+<h3>
 🎯 Focused on continuous learning and building impactful projects
-</p>
+</h3>
 
-<p>
-<b>My goal:</b> Build intelligent, scalable, and meaningful technology.
-</p>
+<br/>
 
-</td>
-</tr>
-</table>
+<h2>🎯 MY GOAL</h2>
+
+<h3>
+Build intelligent, scalable, and meaningful technology.
+</h3>
+
+</div>
+
 
 
 
