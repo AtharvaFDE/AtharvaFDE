@@ -32,12 +32,12 @@
 I'm passionate about building technology that solves real-world problems.
 </p>
 
-\<p>
-🤖 Exploring \<b>Artificial Intelligence & Machine Learning\</b>\<br/>
-📊 Interested in \<b>Data Engineering & Data Science\</b>\<br/>
-💻 Building applications through \<b>Software Development\</b>\<br/>
-🌱 Constantly learning new tools, technologies, and frameworks\<br/>
-🚀 Interested in turning complex ideas into practical solutions\<br/>
+<p>
+🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
+📊 Interested in <b>Data Engineering & Data Science</b><br/>
+💻 Building applications through <b>Software Development</b><br/>
+🌱 Constantly learning new tools, technologies, and frameworks<br/>
+🚀 Interested in turning complex ideas into practical solutions<br/>
 🎯 Focused on continuous learning and building impactful projects
 </p>
 
