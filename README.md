@@ -17,20 +17,20 @@
 
 
 
-\<!-- ======================== ABOUT ME ======================== -->
+<!-- ======================== ABOUT ME ======================== -->
 
-\<h2 align="center">🧑‍💻 ABOUT ME\</h2>
+<h2 align="center">🧑‍💻 ABOUT ME\</h2>
 
-\<table width="100%">
-\<tr>
+<table width="100%">
+<tr>
 
-\<td width="60%" valign="middle" align="left">
+<td width="60%" valign="middle" align="left">
 
-\<h3>Hey there! I'm Atharva 👋\</h3>
+<h3>Hey there! I'm Atharva 👋\</h3>
 
-\<p>
+<p>
 I'm passionate about building technology that solves real-world problems.
-\</p>
+</p>
 
 \<p>
 🤖 Exploring \<b>Artificial Intelligence & Machine Learning\</b>\<br/>
@@ -39,22 +39,22 @@ I'm passionate about building technology that solves real-world problems.
 🌱 Constantly learning new tools, technologies, and frameworks\<br/>
 🚀 Interested in turning complex ideas into practical solutions\<br/>
 🎯 Focused on continuous learning and building impactful projects
-\</p>
+</p>
 
-\<p>
-\<b>My goal:\</b> Build intelligent, scalable, and meaningful technology.
-\</p>
+<p>
+<b>My goal:\</b> Build intelligent, scalable, and meaningful technology.
+</p>
 
-\</td>
+</td>
 
-\<td width="40%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
-\<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"   width="100%"   alt="Developer coding animation"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"   width="100%"   alt="Developer coding animation"/>
 
-\</td>
+</td>
 
-\</tr>
-\</table>
+</tr>
+</table>
 
 ---
 
