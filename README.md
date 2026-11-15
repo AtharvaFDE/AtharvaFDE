@@ -21,11 +21,6 @@
 
 <h2 align="center">🧑‍💻 ABOUT ME</h2>
 
-<table width="100%">
-<tr>
-
-<td width="60%" valign="middle" align="left">
-
 <h3>Hey there! I'm Atharva 👋</h3>
 
 <p>
@@ -42,19 +37,8 @@ I'm passionate about building technology that solves real-world problems.
 </p>
 
 <p>
-<b>My goal:\</b> Build intelligent, scalable, and meaningful technology.
+<b>My goal:</b> Build intelligent, scalable, and meaningful technology.
 </p>
-
-</td>
-
-<td width="40%" valign="middle" align="center">
-
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"   width="100%"   alt="Developer coding animation"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
