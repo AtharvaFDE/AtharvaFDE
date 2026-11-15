@@ -25,59 +25,33 @@
 
 <!-- ======================== ABOUT ME ======================== -->
 
-<h2 align="center">🧑‍💻 ABOUT ME</h2>
-
-
-
-
-<!-- ======================== ABOUT ME ======================== -->
-
-<h2 align="center">🧑‍💻 ABOUT ME</h2>
 
 <div align="center">
 
-<h1>Hey there! I'm Atharva 👋</h1>
+<h2>🧑‍💻 ABOUT ME</h2>
 
-<h3>
-Passionate about building technology that solves real-world problems.
-</h3>
+<h2>Hey there! I'm Atharva 👋</h2>
 
-<br/>
+<p>
+I'm passionate about building technology that solves real-world problems.
+</p>
 
-<h3>
-🤖 Exploring <b>Artificial Intelligence & Machine Learning</b>
-</h3>
-
-<h3>
-📊 Interested in <b>Data Engineering & Data Science</b>
-</h3>
-
-<h3>
-💻 Building applications through <b>Software Development</b>
-</h3>
-
-<h3>
-🌱 Constantly learning new tools, technologies, and frameworks
-</h3>
-
-<h3>
-🚀 Turning complex ideas into practical solutions
-</h3>
-
-<h3>
+<p>
+🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/><br/>
+📊 Interested in <b>Data Engineering & Data Science</b><br/><br/>
+💻 Building applications through <b>Software Development</b><br/><br/>
+🌱 Constantly learning new tools, technologies, and frameworks<br/><br/>
+🚀 Interested in turning complex ideas into practical solutions<br/><br/>
 🎯 Focused on continuous learning and building impactful projects
-</h3>
+</p>
 
-<br/>
+<h3>🎯 My Goal</h3>
 
-<h2>🎯 MY GOAL</h2>
-
-<h3>
-Build intelligent, scalable, and meaningful technology.
-</h3>
+<p>
+<b>Build intelligent, scalable, and meaningful technology.</b>
+</p>
 
 </div>
-
 
 
 
