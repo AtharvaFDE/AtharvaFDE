@@ -15,46 +15,46 @@
 
 ---
 
-<!-- ======================== ABOUT ME ======================== -->
 
-<h2 align="center">🧑‍💻 ABOUT ME</h2>
 
-<div align="center">
+\<!-- ======================== ABOUT ME ======================== -->
 
-<table width="100%">
-<tr>
-<td align="center" width="100%">
+\<h2 align="center">🧑‍💻 ABOUT ME\</h2>
 
-<h3>Hey there! I'm Atharva 👋</h3>
+\<table width="100%">
+\<tr>
 
-<p>
+\<td width="60%" valign="middle" align="left">
+
+\<h3>Hey there! I'm Atharva 👋\</h3>
+
+\<p>
 I'm passionate about building technology that solves real-world problems.
-</p>
+\</p>
 
-<p>
-🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
-📊 Interested in <b>Data Engineering & Data Science</b><br/>
-💻 Building applications through <b>Software Development</b><br/>
-🌱 Constantly learning new tools, technologies, and frameworks<br/>
-🚀 Interested in turning complex ideas into practical solutions<br/>
+\<p>
+🤖 Exploring \<b>Artificial Intelligence & Machine Learning\</b>\<br/>
+📊 Interested in \<b>Data Engineering & Data Science\</b>\<br/>
+💻 Building applications through \<b>Software Development\</b>\<br/>
+🌱 Constantly learning new tools, technologies, and frameworks\<br/>
+🚀 Interested in turning complex ideas into practical solutions\<br/>
 🎯 Focused on continuous learning and building impactful projects
-</p>
+\</p>
 
-<p>
-<b>My goal:</b> Build intelligent, scalable, and meaningful technology.
-</p>
+\<p>
+\<b>My goal:\</b> Build intelligent, scalable, and meaningful technology.
+\</p>
 
-<br/>
+\</td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     width="350"
-     alt="Programmer coding animation"/>
+\<td width="40%" valign="middle" align="center">
 
-</td>
-</tr>
-</table>
+\<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)"   width="100%"   alt="Developer coding animation"/>
 
-</div>
+\</td>
+
+\</tr>
+\</table>
 
 ---
 
