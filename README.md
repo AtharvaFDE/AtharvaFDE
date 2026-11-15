@@ -29,8 +29,8 @@
 
 <table>
 <tr>
- <td width="60%" valign="center">
-<!-- <td width="100%" valign="center"> -->
+ <!-- <td width="60%" valign="center"> -->
+<td width="100%" valign="center">
 
 ### Hey there! I'm Atharva 👋
 
@@ -47,11 +47,11 @@ I'm passionate about building technology that solves real-world problems.
 
 </td>
 
-<td width="40%" align="center">
+<!-- <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg" width="100%" alt="Developer coding animation" />
 
-</td> 
+</td>  -->
 </tr>
 </table>
 
