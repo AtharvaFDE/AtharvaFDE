@@ -25,33 +25,31 @@
 
 <!-- ======================== ABOUT ME ======================== -->
 
-
 <div align="center">
 
 <h2>🧑‍💻 ABOUT ME</h2>
 
-<h2>Hey there! I'm Atharva 👋</h2>
+<h3>Hey there! I'm Atharva 👋</h3>
 
 <p>
 I'm passionate about building technology that solves real-world problems.
 </p>
 
 <p>
-🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/><br/>
-📊 Interested in <b>Data Engineering & Data Science</b><br/><br/>
-💻 Building applications through <b>Software Development</b><br/><br/>
-🌱 Constantly learning new tools, technologies, and frameworks<br/><br/>
-🚀 Interested in turning complex ideas into practical solutions<br/><br/>
+🤖 Exploring <b>Artificial Intelligence & Machine Learning</b><br/>
+📊 Interested in <b>Data Engineering & Data Science</b><br/>
+💻 Building applications through <b>Software Development</b><br/>
+🌱 Constantly learning new tools, technologies, and frameworks<br/>
+🚀 Interested in turning complex ideas into practical solutions<br/>
 🎯 Focused on continuous learning and building impactful projects
 </p>
 
-<h3>🎯 My Goal</h3>
-
 <p>
-<b>Build intelligent, scalable, and meaningful technology.</b>
+<b>🎯 My Goal:</b> Build intelligent, scalable, and meaningful technology.
 </p>
 
 </div>
+
 
 
 
